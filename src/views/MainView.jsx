@@ -62,8 +62,7 @@ function App() {
 										textAlign: "center",
 										color: "#c7254e",
 										backgroundColor: "#fff",
-										textShadow: "0px 0px 2px #ff000",
-										marginTop: "10px"
+										textShadow: "0px 0px 2px #ff000"
 									}}
 								>
 									<b>Κρεοπωλείο "ο Κώστας"</b>
@@ -73,7 +72,6 @@ function App() {
 									style={{
 										fontSize: "36px",
 										textAlign: "center",
-										marginTop: "11px",
 										color: "#c7254e",
 										backgroundColor: "#fff",
 										textShadow: "0px 0px 2px #ff000"
