@@ -2,7 +2,7 @@
 import icon1 from "../assets/icon_1.jpg";
 import icon2 from "../assets/icon_2.jpg";
 import icon3 from "../assets/icon_3.jpg";
-import img5 from "../assets/img_5.jpg";
+import heroImage from "../assets/hero_image.jpg";
 import locationIcon from "../assets/location_icon.png";
 import phoneIcon from "../assets/phone_icon.png";
 import timeIcon from "../assets/time_icon.png";
@@ -86,7 +86,7 @@ function App() {
 					</nav>
 				</div>
 			</div>
-			<img className="hero" src={img5} />
+			<img className="hero" src={heroImage} />
 			<div className="hero-caption">
 				<>
 					<h1>Από το {fromYear}</h1>
