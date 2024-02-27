@@ -7,5 +7,5 @@ export default defineConfig({
 	build: {
 		outDir: "docs"
 	},
-	base: "https://kfilios.github.io/ekreopoleio.github.io/"
+	base: "https://ekreopoleio.gr/"
 });
